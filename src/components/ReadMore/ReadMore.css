@@ -1,0 +1,13 @@
+.read_more {
+  display: flex;
+
+  flex-direction: column;
+}
+
+.read_more_img {
+  margin: 3vw;
+}
+
+.read_more_text {
+  margin: 3vw;
+}

@@ -1,0 +1,17 @@
+.foot {
+  background-color: #333;
+  /* height: 44px; */
+  background-image: url("../img/foott.png");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: bottom;
+  box-shadow: 0 20px 50px rgba(0, 0, 0, 0.8);
+  margin-top: auto;
+  /* height: 25vh; */
+  padding: 33px;
+  /* margin-top: 5vh; */
+}
+
+.myproject .foot_text {
+  color: #fff;
+}
